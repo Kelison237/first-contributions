@@ -23,6 +23,7 @@ Joshua Do
 - [Louis Bond](https://github.com/mrbondx)
 - [Ehtesham Siddiqui](https://github.com/cadmaus)
 - [AaryanPal](https://github.com/Aaryanpal)
+- [Kelison237](https://github.com/Kelison237)
 - [Michael French](https://github.com/frenchytheasian)
 - [Enes Alper Balta](https://github.com/eabalta)
 - [Arshal Nuna Soren](https://github.com/arshalsoren)
